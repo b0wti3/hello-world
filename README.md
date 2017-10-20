@@ -1,4 +1,4 @@
-# hell-world
+# hello-world
 My first foray into github!
 I am a script kiddie and I know it! 
 Time passes on and growth is made. 
